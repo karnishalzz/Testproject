@@ -1,0 +1,12 @@
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.deps.json
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.runtimeconfig.json
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.runtimeconfig.dev.json
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\netcoreapp3.1\ProjectModel.pdb
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.AssemblyInfoInputs.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.AssemblyInfo.cs
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.csproj.CoreCompileInputs.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.pdb
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.genruntimeconfig.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\netcoreapp3.1\ProjectModel.csprojAssemblyReference.cache

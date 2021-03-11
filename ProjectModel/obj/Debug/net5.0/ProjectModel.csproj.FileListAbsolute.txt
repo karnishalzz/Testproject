@@ -1,0 +1,14 @@
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\net5.0\ProjectModel.deps.json
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\net5.0\ProjectModel.runtimeconfig.json
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\net5.0\ProjectModel.runtimeconfig.dev.json
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\net5.0\ProjectModel.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\net5.0\ref\ProjectModel.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\bin\Debug\net5.0\ProjectModel.pdb
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\net5.0\ProjectModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\net5.0\ProjectModel.AssemblyInfoInputs.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\net5.0\ProjectModel.AssemblyInfo.cs
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\net5.0\ProjectModel.csproj.CoreCompileInputs.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\net5.0\ProjectModel.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\net5.0\ref\ProjectModel.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\net5.0\ProjectModel.pdb
+C:\Users\BACBON_01\source\repos\TestProject\ProjectModel\obj\Debug\net5.0\ProjectModel.genruntimeconfig.cache

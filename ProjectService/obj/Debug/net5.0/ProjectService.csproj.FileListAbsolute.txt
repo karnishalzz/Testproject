@@ -1,0 +1,15 @@
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\net5.0\ProjectService.deps.json
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\net5.0\ProjectService.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\net5.0\ref\ProjectService.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\net5.0\ProjectService.pdb
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\net5.0\ProjectModel.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\net5.0\ProjectModel.pdb
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\net5.0\ProjectService.csprojAssemblyReference.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\net5.0\ProjectService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\net5.0\ProjectService.AssemblyInfoInputs.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\net5.0\ProjectService.AssemblyInfo.cs
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\net5.0\ProjectService.csproj.CoreCompileInputs.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\net5.0\ProjectService.csproj.CopyComplete
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\net5.0\ProjectService.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\net5.0\ref\ProjectService.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\net5.0\ProjectService.pdb

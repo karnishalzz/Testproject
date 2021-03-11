@@ -1,0 +1,12 @@
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\netcoreapp3.1\ProjectService.deps.json
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\netcoreapp3.1\ProjectService.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\netcoreapp3.1\ProjectService.pdb
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\netcoreapp3.1\ProjectModel.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\bin\Debug\netcoreapp3.1\ProjectModel.pdb
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\netcoreapp3.1\ProjectService.csprojAssemblyReference.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\netcoreapp3.1\ProjectService.AssemblyInfoInputs.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\netcoreapp3.1\ProjectService.AssemblyInfo.cs
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\netcoreapp3.1\ProjectService.csproj.CoreCompileInputs.cache
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\netcoreapp3.1\ProjectService.csproj.CopyComplete
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\netcoreapp3.1\ProjectService.dll
+C:\Users\BACBON_01\source\repos\TestProject\ProjectService\obj\Debug\netcoreapp3.1\ProjectService.pdb
